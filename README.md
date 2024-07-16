@@ -2,7 +2,7 @@
 
 <p align="center">
 <iframe src="https://giphy.com/embed/E1Kd3pQwrsMtQbNkt0" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/diversifyscience-women-E1Kd3pQwrsMtQbNkt0">via GIPHY</a></p>
-
+</p>
 <h2> Programming languages</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
